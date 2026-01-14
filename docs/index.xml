@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>data-science-blogs</title>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.8.24</generator>
+<lastBuildDate>Mon, 12 Jan 2026 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Why Human + AI Is Not Always Better</title>
+  <dc:creator>Yonas Gebre</dc:creator>
+  <link>https://your-website-url.example.com/posts/Human-AI-Synergy/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="introduction" class="level2">
+
+<ul>
+<li>Common belief that AI + humans should always improve performance</li>
+<li>Why this assumption feels intuitive</li>
+<li>Brief statement that research challenges this idea</li>
+</ul>
+</section>
+<section id="what-research-shows-about-humanai-collaboration" class="level2">
+<h2 class="anchored" data-anchor-id="what-research-shows-about-humanai-collaboration">What Research Shows About Human–AI Collaboration</h2>
+<ul>
+<li>Description of the study and how it compares humans, AI, and human–AI teams</li>
+<li>Presentation of the main result using a simplified figure</li>
+<li>Explanation of what the figure shows in plain language</li>
+</ul>
+</section>
+<section id="why-working-with-ai-can-make-results-worse" class="level2">
+<h2 class="anchored" data-anchor-id="why-working-with-ai-can-make-results-worse">Why Working With AI Can Make Results Worse</h2>
+<section id="people-struggle-to-use-ai-correctly" class="level3">
+<h3 class="anchored" data-anchor-id="people-struggle-to-use-ai-correctly">People Struggle to Use AI Correctly</h3>
+<ul>
+<li>Trusting AI too much</li>
+<li>Ignoring AI when it is helpful</li>
+<li>Why these behaviors are predictable</li>
+</ul>
+</section>
+<section id="the-type-of-task-matters" class="level3">
+<h3 class="anchored" data-anchor-id="the-type-of-task-matters">The Type of Task Matters</h3>
+<ul>
+<li>Decision tasks vs creative tasks</li>
+<li>Why collaboration works better in some settings than others</li>
+</ul>
+</section>
+<section id="skill-differences-between-humans-and-ai" class="level3">
+<h3 class="anchored" data-anchor-id="skill-differences-between-humans-and-ai">Skill Differences Between Humans and AI</h3>
+<ul>
+<li>What happens when AI is better than humans</li>
+<li>What happens when humans are better than AI</li>
+</ul>
+</section>
+</section>
+<section id="why-this-matters-in-real-life" class="level2">
+<h2 class="anchored" data-anchor-id="why-this-matters-in-real-life">Why This Matters in Real Life</h2>
+<ul>
+<li>Implications for students, professionals, and everyday AI users</li>
+<li>How to think more carefully about using AI tools</li>
+</ul>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<ul>
+<li>Summary of the key lesson</li>
+<li>Why good human–AI collaboration is a design problem, not just a technology problem</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>ai</category>
+  <category>data-science</category>
+  <category>analysis</category>
+  <guid>https://your-website-url.example.com/posts/Human-AI-Synergy/</guid>
+  <pubDate>Mon, 12 Jan 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <pubDate>Fri, 09 Jan 2026 08:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

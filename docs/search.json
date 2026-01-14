@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/Human-AI-Synergy/index.html",
+    "href": "posts/Human-AI-Synergy/index.html",
+    "title": "Why Human + AI Is Not Always Better",
+    "section": "",
+    "text": "Common belief that AI + humans should always improve performance\nWhy this assumption feels intuitive\nBrief statement that research challenges this idea"
+  },
+  {
+    "objectID": "posts/Human-AI-Synergy/index.html#introduction",
+    "href": "posts/Human-AI-Synergy/index.html#introduction",
+    "title": "Why Human + AI Is Not Always Better",
+    "section": "",
+    "text": "Common belief that AI + humans should always improve performance\nWhy this assumption feels intuitive\nBrief statement that research challenges this idea"
+  },
+  {
+    "objectID": "posts/Human-AI-Synergy/index.html#what-research-shows-about-humanai-collaboration",
+    "href": "posts/Human-AI-Synergy/index.html#what-research-shows-about-humanai-collaboration",
+    "title": "Why Human + AI Is Not Always Better",
+    "section": "What Research Shows About Human–AI Collaboration",
+    "text": "What Research Shows About Human–AI Collaboration\n\nDescription of the study and how it compares humans, AI, and human–AI teams\nPresentation of the main result using a simplified figure\nExplanation of what the figure shows in plain language"
+  },
+  {
+    "objectID": "posts/Human-AI-Synergy/index.html#why-working-with-ai-can-make-results-worse",
+    "href": "posts/Human-AI-Synergy/index.html#why-working-with-ai-can-make-results-worse",
+    "title": "Why Human + AI Is Not Always Better",
+    "section": "Why Working With AI Can Make Results Worse",
+    "text": "Why Working With AI Can Make Results Worse\n\nPeople Struggle to Use AI Correctly\n\nTrusting AI too much\nIgnoring AI when it is helpful\nWhy these behaviors are predictable\n\n\n\nThe Type of Task Matters\n\nDecision tasks vs creative tasks\nWhy collaboration works better in some settings than others\n\n\n\nSkill Differences Between Humans and AI\n\nWhat happens when AI is better than humans\nWhat happens when humans are better than AI"
+  },
+  {
+    "objectID": "posts/Human-AI-Synergy/index.html#why-this-matters-in-real-life",
+    "href": "posts/Human-AI-Synergy/index.html#why-this-matters-in-real-life",
+    "title": "Why Human + AI Is Not Always Better",
+    "section": "Why This Matters in Real Life",
+    "text": "Why This Matters in Real Life\n\nImplications for students, professionals, and everyday AI users\nHow to think more carefully about using AI tools"
+  },
+  {
+    "objectID": "posts/Human-AI-Synergy/index.html#conclusion",
+    "href": "posts/Human-AI-Synergy/index.html#conclusion",
+    "title": "Why Human + AI Is Not Always Better",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nSummary of the key lesson\nWhy good human–AI collaboration is a design problem, not just a technology problem"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "data-science-blogs",
+    "section": "",
+    "text": "Why Human + AI Is Not Always Better\n\n\n\nai\n\ndata-science\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 12, 2026\n\n\nYonas Gebre\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 9, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  }
+]

@@ -1,0 +1,39 @@
+---
+title: "Why Human + AI Is Not Always Better"
+author: "Yonas Gebre"
+date: "2026-01-12"
+categories: [ai, data-science, analysis]
+---
+
+
+## Introduction
+- Common belief that AI + humans should always improve performance
+- Why this assumption feels intuitive
+- Brief statement that research challenges this idea
+
+## What Research Shows About Human–AI Collaboration
+- Description of the study and how it compares humans, AI, and human–AI teams
+- Presentation of the main result using a simplified figure
+- Explanation of what the figure shows in plain language
+
+## Why Working With AI Can Make Results Worse
+### People Struggle to Use AI Correctly
+- Trusting AI too much
+- Ignoring AI when it is helpful
+- Why these behaviors are predictable
+
+### The Type of Task Matters
+- Decision tasks vs creative tasks
+- Why collaboration works better in some settings than others
+
+### Skill Differences Between Humans and AI
+- What happens when AI is better than humans
+- What happens when humans are better than AI
+
+## Why This Matters in Real Life
+- Implications for students, professionals, and everyday AI users
+- How to think more carefully about using AI tools
+
+## Conclusion
+- Summary of the key lesson
+- Why good human–AI collaboration is a design problem, not just a technology problem
