@@ -2,7 +2,7 @@
 title: "Why Human + AI Is Not Always Better"
 author: "Yonas Gebre"
 date: "2026-01-12"
-categories: [ai, data-science, analysis]
+categories: [AI]
 bibliography: references.bib
 ---
 
@@ -18,11 +18,11 @@ However, recent research suggests that this assumption is too simple  [@vaccaro2
 
 ## What Research Shows About Human–AI Collaboration
 
-To better understand how humans and AI perform together, the researchers compared human–AI systems against clear baselines, or reference points, for performance.
+To better understand how humans and AI perform together, the researchers compared human–AI systems against clear baselines, or reference points, for performance  (@vaccaro2024humanai).
 
-In each experiment, they first identified how well humans performed on their own and how well the AI performed on its own. Whichever of these two performed better was treated as the strongest baseline. The researchers then asked a strict question: Does combining humans and AI perform better than the best option available? This comparison captures whether true human–AI synergy is achieved.
+In each experiment, they first identified how well humans performed on their own and how well the AI performed on its own. Whichever of these two performed better was treated as the strongest baseline. The researchers then asked a strict question: *Does combining humans and AI perform better than the best option available?* This comparison captures whether true human–AI synergy is achieved.
 
-They also made a second, simpler comparison using a different baseline: humans working alone. Here, the question was Does AI help people perform better than they would on their own? This comparison focuses on human augmentation, even if the combined system is not the best overall performer.
+They also made a second, simpler comparison using a different baseline: humans working alone. Here, the question was *Does AI help people perform better than they would on their own?* This comparison focuses on human augmentation, even if the combined system is not the best overall performer.
 
 By applying these baseline comparisons across hundreds of experiments and many different tasks, such as content creation, problem solving, and image classification, the researchers were able to identify consistent patterns in human–AI collaboration. The figure below summarizes the results of these two baseline comparisons.
 
@@ -52,7 +52,7 @@ These patterns are not random errors. They reflect how humans naturally respond 
 
 ### The Type of Task Matters
 
-Another key factor that shapes human–AI collaboration is the **type of task** being performed. Across many experiments, researchers consistently found that collaboration works differently for creative tasks than for decision-making tasks.
+Another key factor that shapes human–AI collaboration is the type of task being performed. Across many experiments, researchers consistently found that collaboration works differently for creative tasks than for decision-making tasks.
 
 For creative tasks such as writing, designing, or brainstorming, human–AI collaboration tends to work better. In a large share of the studies involving these tasks, humans benefited from AI support. This is likely because creative work naturally allows a division of roles. Humans contribute ideas, context, and judgment, while AI helps with routine or repetitive parts, such as generating drafts or filling in details.
 
@@ -61,7 +61,7 @@ In contrast, for decision tasks where deliberate thinking is required, or choosi
 
 ### Skill Differences Between Humans and AI
 
-The effectiveness of collaboration also depends on **who performs better when working alone**. Across the experiments analyzed, researchers observed a clear pattern based on relative skill.
+The effectiveness of collaboration also depends on who performs better when working alone. Across the experiments analyzed, researchers observed a clear pattern based on relative skill.
 
 When AI outperformed humans on a task, adding human judgment often reduced overall performance. In many such experiments, people struggled to know when to trust the AI and when to rely on their own judgment. This led them to override correct AI predictions or introduce new errors.
 

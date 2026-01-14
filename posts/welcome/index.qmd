@@ -2,7 +2,7 @@
 title: "Welcome To My Blog"
 author: "Yonas Gebre"
 date: "2026-01-09"
-categories: [news]
+categories: [Intro]
 ---
 
 Welcome! This blog is a space where I share my thoughts and learning as I explore data science, artificial intelligence, and how these technologies interact with people in the real world.
