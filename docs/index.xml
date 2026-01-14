@@ -22,64 +22,68 @@
 
 
 <section id="introduction" class="level2">
-
-<ul>
-<li>Common belief that AI + humans should always improve performance</li>
-<li>Why this assumption feels intuitive</li>
-<li>Brief statement that research challenges this idea</li>
-</ul>
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Artificial intelligence (AI) is often described as a tool that makes people smarter, faster, and more productive. From writing emails to recommending medical diagnoses, AI systems are designed to support human decision-making. It feels natural to assume that combining human judgment with AI predictions should always lead to better results than either working alone.</p>
+<p>This belief is widespread. Many organizations now design systems with “humans in the loop,” assuming that human oversight will catch AI’s mistakes while AI will compensate for human limitations. In theory, this sounds like the best of both worlds.</p>
+<p>However, recent research suggests that this assumption is too simple <span class="citation" data-cites="vaccaro2024humanai">(Vaccaro, Almaatouq, and Malone 2024)</span>. While AI often helps people perform better, combining humans and AI does not always lead to the best outcomes. In fact, under certain conditions, human–AI teams perform worse than humans or AI working alone (<span class="citation" data-cites="vaccaro2024humanai">Vaccaro, Almaatouq, and Malone (2024)</span>). Understanding why this happens is important for anyone who uses AI tools in school, work, or everyday life.</p>
 </section>
 <section id="what-research-shows-about-humanai-collaboration" class="level2">
 <h2 class="anchored" data-anchor-id="what-research-shows-about-humanai-collaboration">What Research Shows About Human–AI Collaboration</h2>
-<ul>
-<li>Description of the study and how it compares humans, AI, and human–AI teams</li>
-<li>Presentation of the main result using a simplified figure</li>
-<li>Explanation of what the figure shows in plain language</li>
-</ul>
+<p>To better understand how humans and AI perform together, the researchers compared human–AI systems against clear baselines, or reference points, for performance.</p>
+<p>In each experiment, they first identified how well humans performed on their own and how well the AI performed on its own. Whichever of these two performed better was treated as the strongest baseline. The researchers then asked a strict question: Does combining humans and AI perform better than the best option available? This comparison captures whether true human–AI synergy is achieved.</p>
+<p>They also made a second, simpler comparison using a different baseline: humans working alone. Here, the question was Does AI help people perform better than they would on their own? This comparison focuses on human augmentation, even if the combined system is not the best overall performer.</p>
+<p>By applying these baseline comparisons across hundreds of experiments and many different tasks, such as content creation, problem solving, and image classification, the researchers were able to identify consistent patterns in human–AI collaboration. The figure below summarizes the results of these two baseline comparisons.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/Human-AI-Synergy/HumanAISynergy.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></p>
+</figure>
+</div>
+<p>The right panel shows that AI usually helps humans. In most of the experiments analyzed, people performed better when they received assistance from an AI system than when they worked alone.</p>
+<p>The left panel shows a more surprising result. In more than half of the experiments, human–AI teams performed worse than the better of humans or AI working alone. This indicates that although AI often improves human performance, human–AI synergy is not consistently achieved.</p>
+<p>Together, these results reveal an important insight: <em>While AI systems oftem make humans better, <strong>human–AI synergy is not always achieved in practice</strong> </em>.</p>
 </section>
 <section id="why-working-with-ai-can-make-results-worse" class="level2">
 <h2 class="anchored" data-anchor-id="why-working-with-ai-can-make-results-worse">Why Working With AI Can Make Results Worse</h2>
+<p>Understanding why human–AI collaboration sometimes fails requires looking beyond the technology itself and focusing on how people interact with AI systems. While AI models may be highly accurate on their own, the way humans interpret, trust, and act on AI outputs plays a major role in determining whether collaboration improves or harms performance.</p>
 <section id="people-struggle-to-use-ai-correctly" class="level3">
 <h3 class="anchored" data-anchor-id="people-struggle-to-use-ai-correctly">People Struggle to Use AI Correctly</h3>
-<ul>
-<li>Trusting AI too much</li>
-<li>Ignoring AI when it is helpful</li>
-<li>Why these behaviors are predictable</li>
-</ul>
+<p>One major reason collaboration fails is that people struggle to judge when to trust AI. Sometimes people trust AI too much and follow its suggestions even when they are incorrect. Other times, people distrust AI and ignore helpful advice. These behaviors are common and predictable.</p>
+<p>For example, if an AI system has been accurate in the past, people may treat its output as authoritative and stop thinking critically. When the AI makes a mistake, the human simply follows along. On the other hand, if people feel uncomfortable with automation, they may reject AI suggestions altogether, even when the AI is right.</p>
+<p>These patterns are not random errors. They reflect how humans naturally respond to automated systems. As a result, human–AI teams can repeatedly make the same types of mistakes, leading to worse overall performance.</p>
 </section>
 <section id="the-type-of-task-matters" class="level3">
 <h3 class="anchored" data-anchor-id="the-type-of-task-matters">The Type of Task Matters</h3>
-<ul>
-<li>Decision tasks vs creative tasks</li>
-<li>Why collaboration works better in some settings than others</li>
-</ul>
+<p>Another key factor that shapes human–AI collaboration is the <strong>type of task</strong> being performed. Across many experiments, researchers consistently found that collaboration works differently for creative tasks than for decision-making tasks.</p>
+<p>For creative tasks such as writing, designing, or brainstorming, human–AI collaboration tends to work better. In a large share of the studies involving these tasks, humans benefited from AI support. This is likely because creative work naturally allows a division of roles. Humans contribute ideas, context, and judgment, while AI helps with routine or repetitive parts, such as generating drafts or filling in details.</p>
+<p>In contrast, for decision tasks where deliberate thinking is required, or choosing the correct answer, collaboration often works worse. In many of these experiments, human–AI teams performed worse than the best option working alone. These tasks typically require both the human and the AI to make a full decision, which makes coordination difficult. Instead of complementing each other, humans and AI can interfere with one another’s strengths.</p>
 </section>
 <section id="skill-differences-between-humans-and-ai" class="level3">
 <h3 class="anchored" data-anchor-id="skill-differences-between-humans-and-ai">Skill Differences Between Humans and AI</h3>
-<ul>
-<li>What happens when AI is better than humans</li>
-<li>What happens when humans are better than AI</li>
-</ul>
+<p>The effectiveness of collaboration also depends on <strong>who performs better when working alone</strong>. Across the experiments analyzed, researchers observed a clear pattern based on relative skill.</p>
+<p>When AI outperformed humans on a task, adding human judgment often reduced overall performance. In many such experiments, people struggled to know when to trust the AI and when to rely on their own judgment. This led them to override correct AI predictions or introduce new errors.</p>
+<p>When humans performed better than AI, collaboration tended to improve results. In these cases, people were more successful at deciding when AI input was useful and when it should be ignored. This suggests that successful human–AI collaboration depends not only on accuracy, but also on people’s ability to manage the interaction effectively.</p>
 </section>
 </section>
 <section id="why-this-matters-in-real-life" class="level2">
 <h2 class="anchored" data-anchor-id="why-this-matters-in-real-life">Why This Matters in Real Life</h2>
-<ul>
-<li>Implications for students, professionals, and everyday AI users</li>
-<li>How to think more carefully about using AI tools</li>
-</ul>
+<p>These findings have important implications for how we use AI in everyday settings. Many students use AI tools to study or complete assignments. Professionals rely on AI recommendations in fields such as healthcare, finance, and hiring. In all these cases, simply adding AI to the workflow does not guarantee better results.</p>
+<p>For tasks that require careful decision-making, it may be better to rely on either human judgment or AI alone, rather than combining them without clear roles. For creative or exploratory tasks, AI can be a powerful assistant when used as a tool rather than a decision-maker.</p>
+<p>The key lesson is that effective human–AI collaboration requires thoughtful design. People need guidance on how and when to use AI, and systems should be built so that humans and AI focus on what they each do best.</p>
 </section>
 <section id="conclusion" class="level2">
 <h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
-<ul>
-<li>Summary of the key lesson</li>
-<li>Why good human–AI collaboration is a design problem, not just a technology problem</li>
-</ul>
+<p>AI is a powerful tool, and in many cases, it improves human performance. However, research shows that combining humans and AI does not automatically lead to better outcomes. Collaboration can fail when people misuse AI, when tasks are poorly designed, or when skill differences are not taken into account.</p>
+<p>Rather than assuming that “human plus AI” is always better, we should think more deeply about how collaboration with these systems is designed. Successful use of AI is not just a technological problem, it is a design and communication problem. How we choose to work with AI matters just as much as how accurate it is.</p>
+
 
 
 </section>
 
- ]]></description>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-vaccaro2024humanai" class="csl-entry">
+Vaccaro, Michelle, Abdullah Almaatouq, and Thomas W. Malone. 2024. <span>“When Combinations of Humans and AI Are Useful: A Systematic Review and Meta-Analysis.”</span> <em>Nature Human Behaviour</em>. <a href="https://www.nature.com/articles/s41562-024-02024-1">https://www.nature.com/articles/s41562-024-02024-1</a>.
+</div>
+</div></section></div> ]]></description>
   <category>ai</category>
   <category>data-science</category>
   <category>analysis</category>
@@ -88,7 +92,7 @@
 </item>
 <item>
   <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <dc:creator>Yonas Gebre</dc:creator>
   <link>https://your-website-url.example.com/posts/welcome/</link>
   <description><![CDATA[ 
 
@@ -96,9 +100,11 @@
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
+<p>Welcome! This blog is a space where I share my thoughts and learning as I explore data science, artificial intelligence, and how these technologies interact with people in the real world.</p>
+<p>I am particularly interested in responsible use of AI. Through this blog, I will reflect on research findings, course projects, and ideas that challenge common assumptions about technology and decision-making.</p>
+<p>This blog is also part of my journey as a student in data science, where clear communication is just as important as technical skill. My goal is to explain complex ideas in a way that is thoughtful, accessible, and grounded in evidence.</p>
+<p>Thanks for stopping by — I hope you find something here that makes you think a little differently about data and AI.</p>
 <p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
 
 
 

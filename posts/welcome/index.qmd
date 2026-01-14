@@ -1,12 +1,17 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Yonas Gebre"
 date: "2026-01-09"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Welcome! This blog is a space where I share my thoughts and learning as I explore data science, artificial intelligence, and how these technologies interact with people in the real world.
+
+I am particularly interested in responsible use of AI. Through this blog, I will reflect on research findings, course projects, and ideas that challenge common assumptions about technology and decision-making.
+
+This blog is also part of my journey as a student in data science, where clear communication is just as important as technical skill. My goal is to explain complex ideas in a way that is thoughtful, accessible, and grounded in evidence.
+
+Thanks for stopping by — I hope you find something here that makes you think a little differently about data and AI.
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

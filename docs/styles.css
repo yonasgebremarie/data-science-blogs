@@ -1,1 +1,3 @@
-/* css styles */
+p, li, span {
+  color: #111827;  /* near-black */
+}
